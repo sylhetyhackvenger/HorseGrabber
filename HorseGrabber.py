@@ -1,14 +1,3 @@
-#!/usr/bin/env python3
-"""
-HORSEGRABBER
-Author: SYLHETYHACKVENGER (THE-ERROR808)
-
-Defensive Windows endpoint investigation and manual file quarantine.
-Requires Windows 10/11 and Python 3.10+. PowerShell is used for read-only
-Windows inventory. No network probing, credential collection, keylogging,
-remote access, or attacker retaliation is implemented.
-"""
-
 from __future__ import annotations
 import csv
 import hashlib
