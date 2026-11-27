@@ -1,3 +1,4 @@
+![Banner 1](assets/file_00000000ea80821197bcae4643eb3114.png)
 ### HORSEGRABBER — Complete Installation & Execution Guide
 
 Tool name: HORSEGRABBER Author: SYLHETYHACKVENGER (THE-ERROR808) File: `HorseGrabber.py`
